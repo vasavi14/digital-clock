@@ -1,0 +1,68 @@
+@import url(https://fonts.googleapis.com/css?family=Cherry+Swash);
+div{
+    margin:20% 0% 30% 32%;
+    margin-right:35%;
+    padding:5px;
+    text-align: center;
+    border-radius: 50px;
+    color:rgb(221, 240, 177);
+    width:400px;
+    height:150px;
+    font-size: 20px;
+    transition: 0.5s;
+    font-family: 'Cherry Swash';    
+
+}
+
+.div2
+{
+    border:2px solid rgb(90, 191, 196);
+    box-shadow: 10px 10px 10px -7px #18c0c9 inset;
+
+}
+div:hover
+{
+    background-color: rgb(11, 195, 177);
+    box-shadow: 0 0 30px #2ed7e3;
+    
+}
+body{
+    background-color: black;
+    background-image: url('../image/clock.jpg');
+background-size:cover;
+	background-attechment:fixed;
+	background-repeat:no repeat;
+    color:white;
+    font-family: 'Cherry Swash';
+}
+p{    
+    font-size: 30px;
+   text-shadow: 10px 100px #45627a;
+
+
+}
+h1{
+    text-align: center;
+    color: #a2e3a3;
+    text-shadow: 1px 2px #91e8be;
+
+
+}
+hr{ height: 10px;
+	border: 0;
+    
+    box-shadow: 10px 10px 10px -7px #18b1c9 inset;
+
+}
+button
+{
+    width:37px;
+    height:37px;
+    border-radius: 10px;
+    background-color: transparent;
+    border-color: rgb(5, 137, 149);
+    color:aliceblue;
+    font-family: 'Cherry Swash';
+
+
+}
